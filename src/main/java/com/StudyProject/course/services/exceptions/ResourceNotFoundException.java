@@ -1,4 +1,4 @@
-package com.StudyProject.course.services.exceptions.ResourceNotFoundException;
+package com.StudyProject.course.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException{
 
